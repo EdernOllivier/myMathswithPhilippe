@@ -1,2 +1,2 @@
 # myMathswithPhilippe
-During the 2021 Summer time.
+I like to joke with Philippe during the classrooms, here I have taken the hypergeometric parameter to test the dsolve function of Maple. Indeed I have not survived to the thing he has given to me during the 2021 summer time. I apologize for the bad maths and bad issue he has been submitting to me during the long time of works we have been doing together via the messenger of LinkedIn.
